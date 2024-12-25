@@ -1,5 +1,5 @@
 # type hint
-this is uing the typed annotation pattern
+#this is uing the typed annotation pattern
 my_typed_number: int = 5
 my_typed_bool: bool = True
 my_typed_string: str = "Hello ,Kehinde"
