@@ -1,4 +1,4 @@
-# conditional in python
+# conditional in python using python for conditional statemnets
 if 7 > 5:
   print("Print 7 is greater than 5") # the space that is beside the print statement is what is for indentation
 else:
